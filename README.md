@@ -19,9 +19,9 @@ Simple News App built with JetPack Compose and news api from [newsapi](https://n
 
 ## Screenshots
 <table>
-  <tr><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/master/assets/1.png'></td>
-    <td><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/master/assets/2.png'></td>
-    <td><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/master/assets/3.png'></td>
-    <td><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/master/assets/4.png'></td>
+  <tr><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/main/assets/1.png'></td>
+    <td><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/main/assets/2.png'></td>
+    <td><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/main/assets/3.png'></td>
+    <td><img src='https://github.com/lazamelezi/4_SimpleNewsApp/blob/main/assets/4.png'></td>
   </tr>
 </table>
