@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple NewsApp</string>
+    <string name="title_general">General</string>
+    <string name="title_business">Business</string>
+    <string name="title_technology">Technology</string>
+    <string name="retry">Retry</string>
+</resources>
